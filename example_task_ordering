@@ -1,0 +1,2 @@
+--test Example.Task3 #DEPENDS Example.Task1
+--test Example.Task2 #DEPENDS Example.Task1

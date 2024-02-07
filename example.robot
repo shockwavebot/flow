@@ -1,6 +1,13 @@
 *** Settings ***
-Documentation     A test suite with a single test for example.
+Documentation     A test suite with a single task
 
-***Test Cases***
-First Test Action  
-...  log  this is a basic test
+*** Tasks ***
+Task1  
+    Log  This is a example task
+    Sleep    2s
+
+Task2
+    Sleep   2s
+
+Task3 
+    Sleep    3s

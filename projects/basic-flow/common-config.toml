@@ -1,0 +1,8 @@
+[env]
+MY_VAR = "some var value"
+VAR_NUM_X = 123
+RND_STR = "fkdjflkdcnncvfdkjgqpekdg"
+
+[paths]
+build_dir = "build"
+log_dir = "flow/logs"
